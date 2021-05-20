@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @swapchat
+- 👋 Hi, I’m Swapnil Chaturvedi!
 - 👀 I’m interested in ... Creating applications with react and node 
 - 🌱 I’m currently learning ... Next.js
 - 💞️ I’m looking to collaborate on ... FullStack web development
