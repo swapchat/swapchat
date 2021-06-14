@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Swapnil Chaturvedi!
 - 👀 I’m interested in ... Creating applications with react and node 
-- 🌱 I’m currently learning ... Next.js
+- 🌱 I’m currently learning ... React and redux
 - 💞️ I’m looking to collaborate on ... FullStack web development
 - 📫 How to reach me ... You can mail me on "swapnilchaturvedi96@gmail.com"
 
